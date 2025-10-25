@@ -2,6 +2,7 @@
 # 🏋️‍♂️ Fitness Analytics Power BI Dashboard
 
 A comprehensive **Power BI dashboard** designed to analyze **fitness center performance** — combining **membership, finance, and health data** into one interactive report. This project helps monitor **clients, revenue, expenses, and calorie metrics** using modern visuals and DAX-based calculations.
+
 <img width="906" height="504" alt="Fitness_home" src="https://github.com/user-attachments/assets/128aa8ae-f901-448e-bdc9-fb4758993499" />
 
 ---
